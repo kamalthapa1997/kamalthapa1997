@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kamal Thapa</h1>
 <h3 align="center">A passionate Full Stack developer from USA</h3>
 
+
+<p align="left"> Hey there! 👋 I started off in high school, diving into the world of science. Fast forward to today, and I'm a self-taught tech enthusiast. While my official CS journey took a detour, I found my way through a 10-month software engineering bootcamp, rocking the MERN stack. I love coding and problem-solving, and I'm always up for a challenge.
+<br/> <br/>  Join me on this digital adventure - I'm all about tech, coffee, and making cool things happen! ☕💻 </p>
+
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamalthapa1997" alt="kamalthapa1997" /></a> </p>
 
 - 🔭 I’m currently working on **Mero Brow & Lash Bar -Full stack web app for clients**
