@@ -3,7 +3,11 @@
 
 
 <p align="left"> Hey there! 👋 I started off in high school, diving into the world of science. Fast forward to today, and I'm a self-taught tech enthusiast. While my official Computer Science journey took a detour, I found my way through a software engineering bootcamp- <a href="https://tripleten.com/">TripleTen</a> , rocking the MERN stack. I love coding and problem-solving, and I'm always up for a challenge.
+
+<p align="left"> 🌟 Current Focus: </br> I am currently spearheading the development of a comprehensive full-stack web application for a renowned beauty store. This multifaceted project includes services such as eyebrow threading, henna, and eyelash extensions. Leveraging technologies like React, Node.js, Express.js, and MongoDB, I am intricately crafting a digital platform that harmonizes scientific precision with the grace of beauty services. The objective is to intricately weave cutting-edge technology into the fabric of the client's brand, creating a sophisticated and scientifically grounded online environment.</p>
+
 <br/> <br/>  Join me on this digital adventure - I'm all about tech, coffee, and making cool things happen! ☕💻 </p>
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamalthapa1997" alt="kamalthapa1997" /></a> </p>
@@ -14,7 +18,7 @@
 
 - 💬 Ask me about **react, C++**
 
-- 📫 How to reach me **Handsomelotus1@gmail.com**
+- 📫 How to reach me **Thapaktm007@gmail.com**
 
 - ⚡ Fun fact **I laugh and make everyone laugh a lot!**
 
