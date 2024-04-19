@@ -12,9 +12,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kamalthapa1997" alt="kamalthapa1997" /></a> </p>
 
-- 🔭 I’m currently working on **Mero Brow & Lash Bar -Full stack web app for clients**
+- 🔭 I’m currently working on **Mero Brow & Lash Bar Llc -Full stack web app for clients**
 
-- 🌱 I’m currently learning **Python, Bootstrap**
+- 🌱 I’m currently learning **Python **
 
 - 💬 Ask me about **react, C++**
 
